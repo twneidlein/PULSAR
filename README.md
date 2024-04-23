@@ -39,8 +39,6 @@ What part of the project you can feel confident using in your own work.
 
 ## Authors
 
-Contributors names and contact info
-
 ex. Thomas Neidlein  wulf1237@gmail.com
 
 ex. John Clark jjclark12@yahoo.com
