@@ -41,23 +41,17 @@ What part of the project you can feel confident using in your own work.
 
 Contributors names and contact info
 
-ex. Thomas Neidlein  
-ex. wulf1237@gmail.com
+ex. Thomas Neidlein  wulf1237@gmail.com
 
-ex. John Clark
-ex. jjclark12@yahoo.com
+ex. John Clark jjclark12@yahoo.com
 
-ex. Max Cohen
-ex. mjcohen19@gmail.com
+ex. Max Cohen mjcohen19@gmail.com
 
-ex. Lamya Bhat
-ex. Blamya002@gmail.com
+ex. Lamya Bhat blamya002@gmail.com
 
-ex. Fredric Gouronc
-ex. fredricgouronc@gmail.com
+ex. Fredric Gouronc fredricgouronc@gmail.com
 
-ex. James Beeman
-ex. jay.b33man@gmail.com
+ex. James Beeman jay.b33man@gmail.com
 
 ## License
 
