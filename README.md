@@ -11,7 +11,7 @@ Our first project, the PikaPump, is a test pump sized from Purdue Space Program 
 ### Dependencies
 
 * Must have CFturbo to run .cft files.
-* To access CFD files, download 7zip 
+* To access CFD files, download 7zip.
 * Must have ANSYS Workbench, CFX, and CFDPost to view the CFD.
 * To access the DAQ and motor controller file, use the arduino IDE. 
 
