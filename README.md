@@ -12,28 +12,30 @@ Our first project, the PikaPump, is a test pump sized from Purdue Space Program 
 
 * Must have CFturbo to run .cft files.
 * To access CFD files, download 7zip 
-* Must have ANSYS Workbench, CFX, and CFDPost to view the CFD. 
+* Must have ANSYS Workbench, CFX, and CFDPost to view the CFD.
+* To access the DAQ and motor controller file, use the arduino IDE. 
 
-### Installing
+### Dowloading
 
 * Download the files as a zip file, then unzip them.
 * The CAD is available in OnShape: https://cad.onshape.com/documents/3ee609e6bb3bc94de198d5cf/w/ba28e37b976e589be2fad60c/e/f99038d5f3ab1b5ac4c240aa 
 * To open the CFD files, select all six of them in the 7zip application, and then unzip them. They will become one ANSYS folder, with which you can view the CFD.
+* If you are trying to use our DAQ and motor controller code, ensure that you calibrate your pressure transducers appropriately if you are trying to use our code, even if you are using the same hardware as us.
 
-### Executing program
+### Safety
 
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
+* Liquid rocketry is dangerous. Please only design and manufacture your own electric pumps if you have experienced mentors.
+* Never get close to high-speed machinery. Anything rotating at several thousand RPMs can kill you.
+* If you are using this with fuels, ensure that your clearances are significant enough to negate the potential for a spark. PULSAR did no testing with fuel or oxidizer because we could not verify the safety of the system, so do not trust that our work is safe.
 
-## Help
+## PikaPump Recommendations
+What part of the project you can feel confident using in your own work.
 
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
+* CFturbo was very helpful in understanding the conceptual design of the pump. They also have good YouTube tutorials. We are confident that we did the CFturbo portion of the project well.
+* ANSYS CFX helped us establish a pump curve close to what we would expect from experimental data. We are confident that our simulations there are accurate and setup properly, feel free to use our boundary conditions for your own projects.
+* The CAD, manufacturing drawings, and actual manufactured parts should not be used to design your own pump. We made a number of critical errors that are outlined in our Final Design Review Report. Please read this report before attempting to start your own pump project.
+* The testing and instrumentation system can be used for your own pump projects, we have no reason to believe any of it was incorrect.
+* There are a few other people who have done similar projects and had equal or slightly more success than us using different methodologies, check them out too: https://web.cecs.pdx.edu/~gerry/class/ME493/projects/2017/PSAS_electric_feed.html and https://www.sjoneil.com/electric-pump-1
 
 ## Authors
 
