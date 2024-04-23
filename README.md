@@ -57,7 +57,7 @@ ex. Fredric Gouronc
 ex. fredricgouronc@gmail.com
 
 ex. James Beeman
-ex. 
+ex. jay.b33man@gmail.com
 
 ## License
 
